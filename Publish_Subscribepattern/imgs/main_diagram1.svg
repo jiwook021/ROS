@@ -1,0 +1,14 @@
+<svg width="1200" height="800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="white"/>
+  <text x="50" y="50" font-size="24" fill="black">1. Overall Architecture / Main Workflow</text>
+  <rect x="50" y="100" width="1100" height="600" fill="lightgray" stroke="black"/>
+  <text x="70" y="140" font-size="20" fill="black">Main Function</text>
+  <ellipse cx="150" cy="200" rx="100" ry="50" fill="lightblue" stroke="black"/>
+  <text x="120" y="210" font-size="16" fill="black">Start</text>
+  <ellipse cx="150" cy="400" rx="100" ry="50" fill="lightblue" stroke="black"/>
+  <text x="120" y="410" font-size="16" fill="black">FakeSubscriber</text>
+  <ellipse cx="150" cy="600" rx="100" ry="50" fill="lightblue" stroke="black"/>
+  <text x="120" y="610" font-size="16" fill="black">Spin Loop</text>
+  <line x1="150" y1="250" x2="150" y2="350" stroke="black" stroke-width="2"/>
+  <line x1="150" y1="450" x2="150" y2="550" stroke="black" stroke-width="2"/>
+</svg>

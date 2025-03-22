@@ -1,0 +1,10 @@
+<svg width="1200" height="800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#f0f0f0"/>
+  <text x="50" y="50" font-size="24" fill="black">5. Simple Descriptor Computation</text>
+  <rect x="50" y="80" width="1100" height="700" fill="white" stroke="black" stroke-width="2"/>
+  <text x="70" y="120" font-size="20" fill="black">1. Define Patch Size</text>
+  <text x="70" y="160" font-size="20" fill="black">2. Extract Patch Around Corner</text>
+  <text x="70" y="200" font-size="20" fill="black">3. Store Patch as Descriptor</text>
+  <line x1="70" y1="130" x2="70" y2="170" stroke="black" stroke-width="2"/>
+  <line x1="70" y1="170" x2="70" y2="210" stroke="black" stroke-width="2"/>
+</svg>

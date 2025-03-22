@@ -1,0 +1,21 @@
+<svg width="1200" height="800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="white"/>
+  <text x="50" y="50" font-size="24" font-weight="bold">6. Service Call Execution</text>
+  <rect x="50" y="100" width="1100" height="600" stroke="black" fill="none"/>
+  <text x="100" y="150" font-size="20">Service Call Execution Process</text>
+  <rect x="100" y="200" width="300" height="100" fill="lightblue"/>
+  <text x="150" y="250" font-size="16">Client Sends Request</text>
+  <rect x="100" y="350" width="300" height="100" fill="lightgreen"/>
+  <text x="150" y="400" font-size="16">Server Processes Request</text>
+  <rect x="100" y="500" width="300" height="100" fill="lightyellow"/>
+  <text x="150" y="550" font-size="16">Client Receives Response</text>
+  <line x1="400" y1="250" x2="500" y2="250" stroke="black"/>
+  <line x1="400" y1="400" x2="500" y2="400" stroke="black"/>
+  <line x1="400" y1="550" x2="500" y2="550" stroke="black"/>
+  <rect x="500" y="200" width="300" height="100" fill="lightblue"/>
+  <text x="550" y="250" font-size="16">Request Sent</text>
+  <rect x="500" y="350" width="300" height="100" fill="lightgreen"/>
+  <text x="550" y="400" font-size="16">Request Processed</text>
+  <rect x="500" y="500" width="300" height="100" fill="lightyellow"/>
+  <text x="550" y="550" font-size="16">Response Received</text>
+</svg>
